@@ -7,10 +7,10 @@
   <img src="https://img.shields.io/badge/SOPs-Tickets-lightgrey?style=for-the-badge" />
 </p>
 
-<h1 align="center">Ibrahim Noor - ARM IT Lab Portfolio</h1>
+<h1 align="center">Ibrahim Noor | IT Lab Portfolio</h1>
 
 <p align="center">
-  Hands-on IT support, desktop troubleshooting, networking labs, and technical documentation.
+  Hands-on IT support projects focused on troubleshooting, desktop support, networking, and technical documentation.
 </p>
 
 <p align="center">
@@ -22,74 +22,85 @@
 
 ## Overview
 
-This repository showcases my hands-on IT lab work and technical documentation as I prepare for roles such as **Help Desk**, **Desktop Support**, and **IT Support Specialist**.
+This repository highlights my hands-on IT lab work as I build practical experience for entry-level roles such as **Help Desk**, **Desktop Support**, and **IT Support Specialist**.
 
-It highlights practical work across:
+The portfolio demonstrates my ability to:
 
-- Windows endpoint support
-- Linux virtual machine setup
-- Cisco Packet Tracer network labs
-- SOP development
-- Ticket-style troubleshooting documentation
-- Technical notes and screenshots
-
-This portfolio is built to show not only what I am learning, but also how I document, troubleshoot, and communicate technical work in a professional way.
+- troubleshoot technical issues in a structured way
+- document support work clearly
+- build foundational Windows, Linux, and networking skills
+- practice support workflows through labs, notes, SOPs, and ticket-style documentation
+- communicate technical work in a professional format
 
 ---
 
-## Core Skills
+## Technical Areas
 
-- Troubleshooting and issue resolution
-- Windows support fundamentals
-- Basic Linux administration
-- IP addressing and network connectivity
-- Documentation and SOP writing
-- Ticketing workflow practice
+- Windows endpoint support
+- Linux virtual machine setup
+- Cisco Packet Tracer labs
+- Network configuration fundamentals
+- SOP and troubleshooting documentation
+- Ticket-style issue tracking
 - Technical communication
 - Root cause analysis
-- Lab-based system support
 
 ---
 
 ## Featured Projects
 
 ### Endpoint Support Notes
-Documented Windows endpoint support topics including local user tasks, troubleshooting steps, and desktop support scenarios.
+Created documentation for Windows endpoint support tasks, including user-related issues, troubleshooting workflows, and common desktop support scenarios.
 
-**Focus areas:**  
-Windows support, user issues, troubleshooting workflow, documentation
+**Skills demonstrated**
+- Windows support fundamentals
+- troubleshooting methodology
+- user support documentation
+- repeatable support processes
 
 ---
 
 ### Linux VM Notes
-Built and documented Linux virtual machine setup and administration practice to strengthen command-line and OS fundamentals.
+Built and documented Linux virtual machine setup and practice to strengthen operating system fundamentals and command-line familiarity.
 
-**Focus areas:**  
-Linux basics, virtual machines, setup planning, system familiarity
+**Skills demonstrated**
+- Linux basics
+- virtual machine setup
+- system navigation
+- technical note-taking
 
 ---
 
 ### Packet Tracer Labs
-Created hands-on network labs involving topologies, IP addressing, routing, switching, and connectivity testing.
+Developed networking labs in Cisco Packet Tracer covering topology design, IP addressing, routing, switching, and connectivity validation.
 
-**Focus areas:**  
-Networking, Packet Tracer, routing, switching, validation
+**Skills demonstrated**
+- network fundamentals
+- IP addressing
+- routing and switching concepts
+- lab validation and troubleshooting
 
 ---
 
 ### SOPs and Troubleshooting Guides
-Developed standard operating procedures and structured support documentation for repeatable IT tasks.
+Wrote structured standard operating procedures for repeatable IT tasks and support workflows.
 
-**Focus areas:**  
-Process documentation, troubleshooting steps, support consistency
+**Skills demonstrated**
+- process documentation
+- step-by-step troubleshooting
+- consistency in support tasks
+- clear technical writing
 
 ---
 
 ### Ticket Documentation
-Recorded support-style issues in ticket format to practice investigation, resolution, and technical write-ups.
+Recorded support issues in a ticket-style format to practice issue tracking, investigation, resolution, and professional support communication.
 
-**Focus areas:**  
-Ticketing, issue tracking, support communication, problem resolution
+**Skills demonstrated**
+- issue documentation
+- support workflow practice
+- problem analysis
+- communication of technical findings
 
 ---
 
