@@ -102,18 +102,5 @@ Recorded support issues in a ticket-style format to practice issue tracking, inv
 - problem analysis
 - communication of technical findings
 
----
 
-## Repository Structure
 
-## Repository Structure
-
-```text
-ARM IT Lab Portfolio
-├── Endpoint_Notes/
-├── Linux_VM_Notes/
-├── PacketTracer/
-├── SOPs/
-├── Screenshots/
-├── Tickets/
-└── Resume_Project_Summary.docx
