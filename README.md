@@ -106,6 +106,8 @@ Recorded support issues in a ticket-style format to practice issue tracking, inv
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 ARM IT Lab Portfolio
 ├── Endpoint_Notes/
