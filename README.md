@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/inoor6747-ship-it">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ibrahim-noor/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ibrahim-noor-578392299/">LinkedIn</a>
 </p>
 
 ---
