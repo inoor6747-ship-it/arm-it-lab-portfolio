@@ -1,193 +1,133 @@
 # ARM IT Lab Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IT%20Support-Portfolio-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Windows-Linux-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Networking-Packet%20Tracer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOPs-Tickets-lightgrey?style=for-the-badge" />
-</p>
+## Project Overview
+This repository showcases an ARM-compatible IT support and networking troubleshooting lab built with Cisco Packet Tracer, structured documentation, and a help desk-style incident workflow.
 
-<h1 align="center">Ibrahim Noor | IT Lab Portfolio</h1>
+The lab was designed to simulate common entry-level IT support issues, including:
+- DHCP failures
+- DNS resolution problems
+- Incorrect default gateway settings
+- Physical connectivity failures
+- Internal server reachability issues
 
-<p align="center">
-  Hands-on IT support projects focused on troubleshooting, desktop support, networking, and technical documentation.
-</p>
-
-<p align="center">
-  <a href="https://github.com/inoor6747-ship-it">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ibrahim-noor-578392299/">LinkedIn</a>
-</p>
+Each scenario was documented with screenshots, SOPs, and a ticket tracker to reflect a structured support process.
 
 ---
 
-## Overview
-
-This repository highlights my hands-on IT lab work as I build practical experience for entry-level roles such as **Help Desk**, **Desktop Support**, and **IT Support Specialist**.
-
-The portfolio demonstrates my ability to:
-
-- troubleshoot technical issues in a structured way
-- document support work clearly
-- build foundational Windows, Linux, and networking skills
-- practice support workflows through labs, notes, SOPs, and ticket-style documentation
-- communicate technical work in a professional format
+## Core Skills Demonstrated
+- TCP/IP troubleshooting
+- DHCP configuration and validation
+- DNS troubleshooting and name resolution testing
+- Default gateway and connectivity analysis
+- Physical connectivity troubleshooting
+- Ticket documentation and incident tracking
+- SOP creation and technical documentation
+- Windows endpoint troubleshooting fundamentals
 
 ---
 
-## Quick Links
+## Lab Topology
+The Packet Tracer lab includes:
+- 1 Router (`R1`)
+- 1 Switch (`SW1`)
+- 3 Client PCs (`PC1`, `PC2`, `PC3`)
+- 1 Server (`SRV1`)
 
-[Endpoint Notes](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Endpoint_Notes) | 
-[Linux VM Notes](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Linux_VM_Notes) | 
-[Packet Tracer](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/PacketTracer) | 
-[SOPs](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/SOPs) | 
-[Screenshots](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Screenshots) | 
-[Tickets](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Tickets)
-
----
-
-## Technical Areas
-
-- Windows endpoint support
-- Linux virtual machine setup
-- Cisco Packet Tracer labs
-- Network configuration fundamentals
-- SOP and troubleshooting documentation
-- Ticket-style issue tracking
-- Technical communication
-- Root cause analysis
+### Network Configuration
+- Network: `192.168.10.0/24`
+- Router IP: `192.168.10.1`
+- Server IP: `192.168.10.10`
+- DHCP scope start: `192.168.10.100`
+- DNS records:
+  - `fileserver.local`
+  - `helpdesk.local`
 
 ---
 
-## Featured Projects
-
-### [Endpoint Support Notes](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Endpoint_Notes)
-Created documentation for Windows endpoint support tasks, including user-related issues, troubleshooting workflows, and common desktop support scenarios.
-
-**Skills demonstrated**
-- Windows support fundamentals
-- troubleshooting methodology
-- user support documentation
-- repeatable support processes
-
----
-
-### [Linux VM Notes](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Linux_VM_Notes)
-Built and documented Linux virtual machine setup and practice to strengthen operating system fundamentals and command-line familiarity.
-
-**Skills demonstrated**
-- Linux basics
-- virtual machine setup
-- system navigation
-- technical note-taking
-
----
-
-### [Packet Tracer Labs](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/PacketTracer)
-Developed networking labs in Cisco Packet Tracer covering topology design, IP addressing, routing, switching, and connectivity validation.
-
-**Skills demonstrated**
-- network fundamentals
-- IP addressing
-- routing and switching concepts
-- lab validation and troubleshooting
-
----
-
-### [SOPs and Troubleshooting Guides](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/SOPs)
-Wrote structured standard operating procedures for repeatable IT tasks and support workflows.
-
-**Skills demonstrated**
-- process documentation
-- step-by-step troubleshooting
-- consistency in support tasks
-- clear technical writing
-
----
-
-### [Ticket Documentation](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Tickets)
-Recorded support issues in a ticket-style format to practice issue tracking, investigation, resolution, and professional support communication.
-
-**Skills demonstrated**
-- issue documentation
-- support workflow practice
-- problem analysis
-- communication of technical findings
+## Troubleshooting Scenarios Completed
+1. DHCP address not assigned
+2. DNS name resolution failure
+3. Incorrect default gateway
+4. Network cable unplugged
+5. Cannot reach internal server
 
 ---
 
 ## Repository Structure
-
-- [Endpoint_Notes](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Endpoint_Notes)
-- [Linux_VM_Notes](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Linux_VM_Notes)
-- [PacketTracer](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/PacketTracer)
-- [SOPs](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/SOPs)
-- [Screenshots](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Screenshots)
-- [Tickets](https://github.com/inoor6747-ship-it/arm-it-lab-portfolio/tree/main/Tickets)
-
----
-
-## Tools and Platforms
-
-- Windows
-- Linux
-- Cisco Packet Tracer
-- Virtual Machines
-- GitHub
-- Microsoft Office
-- Technical Documentation
-- Ticket-style workflow practice
+- `PacketTracer/` - Packet Tracer lab file and lab notes
+- `Screenshots/` - Topology, configuration, and troubleshooting proof
+- `SOPs/` - Standard operating procedures
+- `Tickets/` - Help desk incident tracker
+- `Endpoint_Notes/` - Windows troubleshooting notes
+- `Linux_VM_Notes/` - Planned future Linux VM expansion
+- `Resume_Project_Summary.pdf` - Resume-ready project summary
 
 ---
 
-## What This Portfolio Shows
+## Documentation Links
 
-This portfolio is designed to give recruiters and hiring managers a clear view of how I approach IT work. It reflects not only technical practice, but also the documentation, organization, and communication skills that are important in support roles.
+### Project Summary
+- [Resume Project Summary](Resume_Project_Summary.pdf)
 
-It shows that I can:
+### Packet Tracer
+- [Packet Tracer Lab File](PacketTracer/ARM_IT_Lab_Base.pkt)
+- [Packet Tracer Notes](PacketTracer/PacketTracer_Notes.pdf)
 
-- learn technical systems through hands-on practice
-- break down problems methodically
-- document support work clearly
-- build repeatable troubleshooting workflows
-- present technical projects professionally
+### SOPs
+- [DHCP Troubleshooting SOP](SOPs/DHCP_Troubleshooting_SOP.pdf)
+- [DNS Troubleshooting SOP](SOPs/DNS_Troubleshooting_SOP.pdf)
+- [Gateway Connectivity SOP](SOPs/Gateway_Connectivity_SOP.pdf)
+- [Physical Connectivity Troubleshooting SOP](SOPs/Physical_Connectivity_Troubleshooting_SOP.pdf)
 
----
+### Tickets
+- [ARM IT Lab Ticket Tracker](Tickets/ARM_IT_Lab_Tickets.xlsx)
 
-## Target Roles
+### Endpoint Notes
+- [Windows Endpoint Troubleshooting Notes](Endpoint_Notes/Windows_Endpoint_Troubleshooting_Notes.pdf)
+- [Local User Support Notes](Endpoint_Notes/Local_User_Support_Notes.pdf)
 
-- Help Desk Analyst
-- Desktop Support Technician
-- IT Support Specialist
-- Technical Support Analyst
-- Junior IT Technician
-- Entry-Level Systems Support
-
----
-
-## About Me
-
-I am a Management Information Systems graduate building practical experience in IT support, troubleshooting, networking, and technical documentation.
-
-This portfolio reflects my goal of turning hands-on lab work into real-world readiness for entry-level IT roles.
+### Linux VM Notes
+- [Planned Linux VM Expansion](Linux_VM_Notes/Planned_Linux_VM_Expansion.pdf)
 
 ---
 
-## Contact
+## Screenshot Proof
+- [Packet Tracer Topology](Screenshots/packet_tracer_topology.png)
+- [PC1 DHCP Address](Screenshots/pc1_dhcp_address.png)
+- [SRV1 DHCP Configuration](Screenshots/srv1_dhcp_config.png)
+- [SRV1 DNS Configuration](Screenshots/srv1_dns_config.png)
+- [Successful Ping Test](Screenshots/successful_ping_test.png)
+- [Successful DNS Name Test](Screenshots/successful_dns_name_test.png)
+- [Wrong Gateway Issue](Screenshots/wrong_gateway_issue.png)
+- [Wrong Gateway Fixed](Screenshots/wrong_gateway_fixed.png)
+- [Cable Unplugged Issue](Screenshots/cable_unplugged_issue.png)
+- [Cable Unplugged Fixed](Screenshots/cable_unplugged_fixed.png)
 
+---
+
+## Help Desk Workflow
+This lab includes a structured ticket tracker to document:
+- Ticket ID
+- User
+- Device
+- Issue
+- Priority
+- Symptoms
+- Troubleshooting steps
+- Root cause
+- Resolution
+- Status
+- Date closed
+
+The goal was to mirror an entry-level service desk workflow while documenting repeatable troubleshooting steps.
+
+---
+
+## Outcome
+This project demonstrates a structured approach to diagnosing, resolving, and documenting common IT support issues in a controlled lab environment. It combines technical troubleshooting, written documentation, and incident tracking into one portfolio project.
+
+---
+
+## Author
 **Ibrahim Noor**  
-Email: `inoor6747@gmail.com`  
-LinkedIn: `https://www.linkedin.com/in/ibrahim-noor-578392299/`  
-GitHub: `https://github.com/inoor6747-ship-it`
-
----
-
-## Ongoing Development
-
-This is a growing portfolio. I will continue adding:
-
-- new troubleshooting scenarios
-- expanded network labs
-- additional SOPs
-- more ticket examples
-- stronger screenshots and walkthroughs
-- new support-focused projects
+IT Portfolio
